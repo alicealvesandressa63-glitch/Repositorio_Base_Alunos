@@ -1,0 +1,4 @@
+Hello World
+Olá Mundo
+Programação em Python
+Fábrica
